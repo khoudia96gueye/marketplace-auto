@@ -1,0 +1,90 @@
+.bg-base {
+  background-color: #754ffe !important;
+}
+#montabs .active {
+  border-bottom: 3px solid blue;
+}
+.loc {
+  color: black;
+}
+.a loc {
+  color: black;
+}
+.titreCard {
+  color: #bc2a2b;
+  font-size: 24px;
+}
+.fontCard{
+  color: #bc2a2b;
+}
+.titre1Card{
+  font-size: 24px;
+  
+  
+}
+.custom-line{
+  min-height: 1rem;
+  margin-bottom: -3rem;
+}
+.km{
+  margin-left: 3.3rem;
+}
+.petrol{
+  margin-left: 3.9rem;
+}
+.img1{
+  width:400px; 
+  height:auto;
+  border-radius: 30px;
+}
+.button1{
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 800;
+  background-color: rgb(13, 13, 117);
+}
+.drivesasa_marketplace{
+   
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #bc2a2b;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.dealers{
+   
+  font-size: 33px;
+  font-weight: 800;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #10255a;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.section_range{
+  background-image: url("image/header-part-bg.png");
+}
+.range_titre{
+  font-size: 52px;
+  font-weight: 800;
+}
+.range_sous_titre{
+  color: #bc2a2b;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+.img_range{
+   
+  height: 700px;
+  border-radius: 60px;
+}
+.img_super{
+  border-radius: 30px;
+}
+.button_enquiry{
+  border-radius: 8px;
+  font-size: 20px;
+  background-color: rgb(13, 13, 117);
+  color: #ffffff;
+  
+}
