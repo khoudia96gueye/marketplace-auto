@@ -12,12 +12,38 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
     />
+    <link rel="stylesheet" href="nav/style.css">
     <title>Vehicule page</title>
   </head>
   <body>
+    <!-- HEADER  -->
+ <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="#"><img src="assets/logo-wer.png" height="50px" alt="logo" ></a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0 " >
+            <li class="nav-item">
+            <a class="nav-link" href="/"style="color: #bc2a2b">HOME</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/accueil"style="color: #bc2a2b">MARKETPLACE</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="drivesasamarketplace"style="color: #bc2a2b">SERVICES</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href=""style="color: #bc2a2b">BLOG</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href=""style="color: #bc2a2b">CONTACT</a>
+            </li>
+            </ul>
+        </div>
+    </div>
+</nav>
     <!-- KHADRE -->
-    <div class="container-fluid section_range">
-      <div class="row">
+    <div class="container-fluid section_range ">
+      <div class="row ">
         <div class="col-lg-10">
           <p class="range_titre">Range Rover Sport 2015</p>
           <!-- Carousel -->
@@ -102,7 +128,7 @@
       <div class="row">
         <div class="col-lg-10 offset-lg-1 text-center mb-1">
           <button type="button" class="button_enquiry m-5 p-2">
-            Make An Enquiry
+         <a href="/servicepage" class="button_enquiry">Make An Enquiry</a>
           </button>
         </div>
       </div>

@@ -1,0 +1,118 @@
+
+.page_login .container-fluid .login_image{
+    background-size:150%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(180deg, rgba(48, 48, 48, 0.3000000119) -4.74%, rgba(0, 0, 0, 0.5500000119) 103.32%),
+    url('../assets/img-20230131-wa04261-2-rTk.png');
+    height: 700px;
+}
+.page_login .container-fluid{
+    font-family: Poppins, 'Source Sans Pro';
+}
+.page_login .container-fluid .col_bouton_login{
+    margin-left: 6rem;
+    margin-right: 1rem;
+}
+.page_login .container-fluid .login_image .login_icons{
+    margin-left: 5rem;
+}
+
+.page_login .container-fluid .login_image .login_icons i{
+    background-color: whitesmoke;
+    border-radius: 100%;
+    line-height: 75rem;
+    color: grey;
+    font-size: 10px;
+    
+    
+}
+.page_login .container-fluid .titre_sign{
+    color:  #10255a;
+    font-weight: 800;
+    font-size: 18px;
+}
+.page_login .container-fluid .mes_bouton .bouton_sign1{
+    width: 20%;
+    background-color: #10255a;
+    font-weight:600;
+    color: white;
+    font-size: 80%;
+}
+.page_login .container-fluid .mes_bouton .bouton_sign2{
+    width: 30%;
+    background-color: #bbbcc0;
+    font-weight:600;
+    color:#bc2a2b; 
+    font-size: 90%;
+
+}
+
+.page_login .container-fluid .choose_infos{
+    font-size: 12px;
+    font-weight: 500;
+    color: #10255a;
+}
+.page_login .container-fluid .put_login_user{
+    background-color: #eeeded;
+    border: none;
+    width: 80%;
+    height: 50px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius:5px ;
+    font-size: 12px;
+}
+.page_login .container-fluid .user_login_icons{
+    font-size: 25px;
+    background-color: #eeeded;
+    color: rgb(182, 180, 180);
+    line-height: 3rem;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+
+}
+.page_login .container-fluid .ensemble_login{
+    border: 2px solid rgb(136, 136, 167) ;
+    width: 88%;
+}
+.page_login .container-fluid .ensemble_login .field_title{
+    font-size: 12px;
+    font-weight: 500;
+    color: #10255a;
+}
+.page_login .container-fluid .ensemble_login .put_number_login{
+    border: none;
+    color: #10255a;
+    font-weight: 600;
+    font-size: 14px;
+}
+.page_login .container-fluid .ensemble_login .phone_user_icon{
+    font-size: 25px;
+    color: #10255a;
+    line-height: 3rem;
+}
+.page_login .container-fluid .user_set{
+    margin-left: 18rem;
+}
+.page_login .container-fluid .bouton_login_user{
+    background-color: #10255a;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    width: 75%;
+    height: 50px;
+}
+.page_login .container-fluid .log_in a{
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 500;
+    color: #10255a;
+}
+.page_login .container-fluid .log_in .log_out{
+    margin-left: 12rem;
+}
+@media screen and (max-width:1250px) {
+    .page_login .container-fluid .col_bouton_login{
+        margin: 0;
+    }
+}

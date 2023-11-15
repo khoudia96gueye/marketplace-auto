@@ -14,6 +14,26 @@ class MarketController extends Controller
         return view('accueil');
     }
 
+    public function index1()
+    {
+        return view('drivesasamarketplace');
+    }
+
+    public function index2()
+    {
+        return view('welcomesa');
+    }
+
+    public function index3()
+    {
+        return view('login');
+    }
+
+    public function index4()
+    {
+        return view('servicepage');
+    }
+
     /**
      * Show the form for creating a new resource.
      */
