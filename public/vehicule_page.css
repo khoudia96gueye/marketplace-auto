@@ -1,0 +1,379 @@
+.bg-base {
+  background-color: #754ffe !important;
+}
+#montabs .active {
+  border-bottom: 3px solid blue;
+}
+.loc {
+  color: black;
+}
+.a loc {
+  color: black;
+}
+.titreCard {
+  color: #bc2a2b;
+  font-size: 24px;
+}
+.fontCard{
+  color: #bc2a2b;
+}
+.titre1Card{
+  font-size: 24px;
+  
+  
+}
+.custom-line{
+  min-height: 1rem;
+  margin-bottom: -3rem;
+}
+.km{
+  margin-left: 3.3rem;
+}
+.petrol{
+  margin-left: 3.9rem;
+}
+.img1{
+  width:400px; 
+  height:auto;
+  border-radius: 30px;
+}
+.button1{
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 800;
+  background-color: rgb(13, 13, 117);
+}
+.drivesasa_marketplace{
+   
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #bc2a2b;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.dealers{
+   
+  font-size: 33px;
+  font-weight: 800;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #10255a;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.section_range{
+  background-image: url("image/header-part-bg.png");
+}
+.range_titre{
+  font-size: 52px;
+  font-weight: 800;
+}
+.range_sous_titre{
+  color: #bc2a2b;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+.img_range{
+   
+  height: 700px;
+  border-radius: 60px;
+}
+.img_super{
+  border-radius: 30px;
+}
+.button_enquiry{
+  border-radius: 8px;
+  font-size: 20px;
+  background-color: rgb(13, 13, 117);
+  color: #ffffff;
+  
+}
+
+
+/* Bachire description css */
+
+.vehicle-info {
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    flex-shrink: 0;
+}
+
+.vehicle-info .desc-FjQ .section-header .overview {
+    font-size: 1.5rem;
+    font-weight: 800;
+    line-height: 1.5;
+    text-transform: uppercase;
+    color: #bc2a2b;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    
+}
+
+.vehicle-info .desc-FjQ .section-header .vehicle-description {
+    font-size: 2.3rem;
+    font-weight: 800;
+    line-height: 1.5;
+    text-transform: capitalize;
+    color: #10255a;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    
+}
+
+.vehicle-info .specs .specifications {
+    font-size: 2.3rem;
+    font-weight: 800;
+    line-height: 1.5;
+    text-transform: capitalize;
+    color: #10255a;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin-top: 8%;
+}
+
+.vehicle-info .desc-FjQ .text_desc {
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.445;
+    color: #283646;
+    font-family: Jost, 'Source Sans Pro';
+    flex-shrink: 0;
+}
+
+.vehicle-info .specs {
+    position: relative;
+    flex-shrink: 0;
+}
+
+.vehicle-info .specs .table1 {
+    box-sizing: border-box;
+    margin-right: 2.3rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    line-height: 1.5;
+    position: relative;
+    background-color: #bc2a2b;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.vehicle-info .specs .table1 .table_blanc {
+    margin-right: 36.3rem;
+    font-size: 1.4rem;
+    font-weight: 600;
+    line-height: 1.5;
+    text-transform: capitalize;
+    background-color: #ffffff;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+
+/* Couleur de fond pour les lignes impaires */
+
+tr:nth-child(odd) {
+    background-color: #d81f1f;
+}
+
+
+/* Couleur de fond pour les lignes paires */
+
+tr:nth-child(even) {
+    background-color: #ffffff;
+}
+
+/* Ousmane info css */
+.khoudia {
+  background-image: url('image/header-part-bg.png'); /* Remplacez 'votre-image.jpg' par le chemin de votre image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 100px; /* Ajoutez une marge intérieure pour séparer le texte de l'image de fond */
+  color:black;
+  height: auto; 
+  display: block;
+  position: relative;
+      
+}
+.khoudia .container .vente_titre{
+  font-size: 33px;
+  font-weight: 800;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #10255a;
+  font-family: Poppins, 'Source Sans Pro';
+  text-align: center;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-bottom: 50px;
+
+
+}
+.khoudia .container .vente_info{
+  margin-right: 1rem;
+text-align: center;
+font-size: 1rem;
+font-weight: 800;
+line-height: 1.5;
+text-transform: uppercase;
+color: #bc2a2b;
+font-family: Poppins, 'Source Sans Pro';
+white-space: nowrap;
+flex-shrink: 0;
+}
+
+.texte_vente{
+
+text-align: center;
+font-size: 0.9rem;
+font-weight: 400;
+line-height: 2.2549999237;
+text-transform: capitalize;
+color: #000000;
+font-family: Poppins, 'Source Sans Pro';
+margin-left: 10px;
+
+
+}
+.vente_card{
+border: 2px solid #ddd;
+border-radius: 10px;
+}
+.bi{
+font-weight: bold; 
+font-size: 1.7em;
+color: #10255A;
+}
+
+/* khoudia forum css */
+
+.section5 .container-fluid {
+    background-color: #ffebec;
+}
+.section5 .container-fluid .forum .forum_titre{
+   
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 1.5;
+    text-transform: uppercase;
+    color: #bc2a2b;
+    font-family: Poppins, 'Source Sans Pro';
+    
+ 
+}
+.section5 .container-fluid .forum .forum_titre1{
+   
+    font-size: 33px;
+    font-weight: 800;
+    line-height: 1.5;
+    text-transform: capitalize;
+    color: #10255a;
+    font-family: Poppins, 'Source Sans Pro';
+}
+.section5 .container-fluid .parent{
+    border: none;
+    width: 95%;
+}
+.section5 .container-fluid .card .message{
+    font-family: Poppins, 'Source Sans Pro';
+    width: 88%;
+}
+.section5 .container-fluid  .card .lateral{
+    width:2%;
+    background-color: #bc2a2b;
+    border-top-left-radius:8px;
+    border-bottom-left-radius:8px;
+    
+}
+
+.section5 .container-fluid .card .message .james{
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 10px;
+}
+.section5 .container-fluid .card .message .msg{
+    font-size:14px;
+    font-weight: 800;
+    color: #10255a;
+    line-height:-15px;
+}
+.section5 .container-fluid .card .message .aimes{
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 5px;
+}
+
+.section5 .container-fluid .card .card-body .vue{
+    width:10%;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius:8px;
+    overflow-x: auto;
+}
+
+.section5 .container-fluid .card .card-body .vue a .eye{
+    background-color: rgb(204, 198, 198);
+    border-radius: 50%;
+    width: 90%;
+    color: #10255a;
+    margin-left:  1rem ;
+    line-height: 5rem;    
+}
+.section5 .container-fluid .carte_comment{
+    border: none;
+    width: 90%;
+    float: right;
+    font-family: Poppins, 'Source Sans Pro';
+
+}
+.section5 .container-fluid .carte_comment .title_comment{
+    font-size:14px;
+    font-weight: 800;
+    color: #10255a;
+}
+.section5 .container-fluid .carte_comment .put_comment{
+    background-color: rgba(248, 241, 241, 0.89);
+    font-size:13px
+}
+.section5 .container-fluid .carte_comment .bouton_comment{
+    background-color: #bc2a2b;
+    font-size:14px;
+    font-weight: 800;
+    width: 100%;
+}
+.section5 .container-fluid .carte_comment .body_comment .put_comment{
+   height: 100px;
+}
+@media screen and (max-width:950px) {
+    .section5 .container-fluid .carte_comment{
+        width: 100%;
+    }
+    .section5 .container-fluid .card .card-body .vue{
+        display: none;
+    }
+    .section5 .container-fluid .parent{
+        width: 100%;
+    }
+}
+
+  
+  
