@@ -429,3 +429,268 @@ header.masthead .h1 {
         font-size: 3.5rem;
     }
 }
+/* for lamine mbaye */
+
+    
+.testimonials {
+  position: relative;
+  height: 1089px;
+  /* border-radius: 25px; */
+  overflow: hidden;
+  background-image: url(./img/testimonials.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.testimonials .overlap-group {
+  position: absolute;
+  width: 50%;
+  height: 442px;
+  top: 386px;
+  left: -200px;
+}
+
+.testimonials .ornament {
+  top: 281px;
+  left: 487px;
+  position: absolute;
+  width: 198px;
+  height: 161px;
+}
+
+.testimonials .frame {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 745px;
+  height: 296px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0px 0px 10px #0000001a;
+}
+
+.testimonials .rectangle {
+  position: absolute;
+  width: 245px;
+  height: 296px;
+  top: 0;
+  left: 200px;
+}
+
+.testimonials .group {
+  position: absolute;
+  width: 491px;
+  height: 237px;
+  top: 29px;
+  left: 287px;
+}
+
+.testimonials .text-wrapper {
+  position: absolute;
+  width: 485px;
+  top: 24px;
+  left: 0;
+  font-family: "Lato-Bold", Helvetica;
+  font-weight: 700;
+  color: #515151;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.testimonials .div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Lato-Regular", Helvetica;
+  font-weight: 400;
+  color: #515151;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.testimonials .p {
+  position: absolute;
+  width: 437px;
+  top: 96px;
+  left: 0;
+  font-family: "Lato-Regular", Helvetica;
+  font-weight: 400;
+  color: #515151;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.testimonials .overlap {
+  position: absolute;
+  width: 1532px;
+  height: 416px;
+  top: 266px;
+  left: 587px;
+}
+
+.testimonials .img {
+  top: 0;
+  left: 625px;
+  position: absolute;
+  width: 198px;
+  height: 161px;
+}
+
+.testimonials .frame-2 {
+  top: 120px;
+  left: 0;
+  position: absolute;
+  width: 745px;
+  height: 296px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0px 0px 10px #0000001a;
+}
+
+.testimonials .rectangle-2 {
+  position: absolute;
+  width: 245px;
+  height: 296px;
+  top: 0;
+  left: 0;
+}
+
+.testimonials .frame-3 {
+  top: 120px;
+  left: 787px;
+  position: absolute;
+  width: 745px;
+  height: 296px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0px 0px 10px #0000001a;
+}
+
+.testimonials .overlap-2 {
+  position: absolute;
+  width: 430px;
+  height: 40px;
+  top: 737px;
+  left: 745px;
+}
+
+.testimonials .group-2 {
+  position: absolute;
+  width: 190px;
+  height: 15px;
+  top: 12px;
+  left: 120px;
+}
+
+.testimonials .ellipse {
+  left: 0;
+  background-color: #10255a;
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 0;
+  border-radius: 7.5px;
+}
+
+.testimonials .ellipse-2 {
+  left: 105px;
+  background-color: #c7c7c7;
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 0;
+  border-radius: 7.5px;
+}
+
+.testimonials .ellipse-3 {
+  left: 35px;
+  background-color: #c7c7c7;
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 0;
+  border-radius: 7.5px;
+}
+
+.testimonials .ellipse-4 {
+  left: 140px;
+  background-color: #c7c7c7;
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 0;
+  border-radius: 7.5px;
+}
+
+.testimonials .ellipse-5 {
+  left: 70px;
+  background-color: #c7c7c7;
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 0;
+  border-radius: 7.5px;
+}
+
+.testimonials .ellipse-6 {
+  left: 175px;
+  background-color: #c7c7c7;
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 0;
+  border-radius: 7.5px;
+}
+
+.testimonials .group-3 {
+  position: absolute;
+  width: 430px;
+  height: 40px;
+  top: 0;
+  left: 0;
+}
+
+.testimonials .section-header-mkt {
+  position: absolute;
+  width: 619px;
+  height: 95px;
+  top: 139px;
+  left: 477px;
+}
+
+.testimonials .what-they-say-about {
+  position: absolute;
+  width: 293px;
+  top: -30px;
+  left: 161px;
+  font-family: "Poppins-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #bc2a2b;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.testimonials .text-wrapper-2 {
+  position: absolute;
+  width: 615px;
+  top: 30px;
+  left: 0;
+  font-family: "Poppins-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #10255a;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+

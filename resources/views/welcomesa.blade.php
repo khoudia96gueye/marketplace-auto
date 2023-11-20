@@ -471,7 +471,82 @@
         </div>
       </div>
     <!-- SECTION WHAT THEY SAY ABOUT  -->
-
+      <div class="testimonials" style=" background-image: url('./assets/rectangle-2-bg.png');">
+        <div class="section-header-mkt">
+          <p class="what-they-say-about text-center " 
+             style="font-size: 16px;
+             font-weight: 800;
+             line-height: 1.5;
+             text-transform: uppercase;
+             color: #bc2a2b;
+             font-family: Poppins, 'Source Sans Pro';">WHAT THEY SAY ABOUT US</p><br>
+          <div class="text-wrapper-2" 
+               style="font-size: 33px;
+               font-weight: 800;
+               line-height: 1.5;
+               text-transform: capitalize;
+               color: #10255a;
+               font-family: Poppins, 'Source Sans Pro';">Join Our Happy Clients</div>
+        </div>
+      <div class="overlap-group">
+        <img class="ornament" src="./assets/ornament-80.png" />
+        <div class="frame" style="">
+          <img class="rectangle" src="./assets/rectangle-1-bg.png" style="border-radius: 12px 1px 1px 12px;"/>
+          <div class="group" style="mx-2">
+            <div class="div" style="left: 177px;">May 8, 2020</div>
+            <p class="text-wrapper" style="left: 177px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p class="p" style=" left: 159px;font-size: 10px;height: 138px;margin-right: 137px; width: 308px;
+                  margin-top: 34px;">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus
+              maecenas. Suspendisse sed magna eget nibh in turpis. Consequat duis diam lacus arcu. Faucibus venenatis
+              felis id augue sit cursus pellentesque enim arcu. Elementum felis magna pretium in tincidunt. Suspendisse
+              sed magna 
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="overlap" >
+        <img class="img" src="./assets/ornament-81.png" />
+        <div class="frame-2">
+          <img class="rectangle-2" src="./assets/rectangle-1-bg-3Sz.png" />
+          <div class="group">
+            <p class="text-wrapper">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <div class="div">May 8, 2020</div>
+            <p class="p">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus
+              maecenas. Suspendisse sed magna eget nibh in turpis. Consequat duis diam lacus arcu. Faucibus venenatis
+              felis id augue sit cursus pellentesque enim arcu. Elementum felis magna pretium in tincidunt. Suspendisse
+              sed magna eget nibh in turpis. Consequat duis diam lacus arcu.Lorem ipsum dolor sit amet, consectetur
+              adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse sed magna eget nibh in
+              turpis. Consequat duis diam lacus arcu. Faucibus venenatis felis id augue sit cursus pellentesque enim
+              arcu. Elementum felis magna pretium in tincidunt. Suspendisse sed magna eget nibh in turpis. Consequat
+              duis diam lacus arcu.
+            </p>
+          </div>
+        </div>
+        <div class="frame-3">
+          <img class="rectangle-2" src="./assets/rectangle-1-bg-S8A.png" />
+          <div class="group">
+            <p class="text-wrapper">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <div class="div">May 8, 2020</div>
+            <p class="p">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus
+              maecenas. Suspendisse sed magna eget nibh in turpis. Consequat duis diam lacus arcu. Faucibus venenatis
+              felis id augue sit cursus pellentesque enim arcu. Elementum felis magna pretium in tincidunt. Suspendisse
+              sed magna eget nibh in turpis. Consequat duis diam lacus arcu.Lorem ipsum dolor sit amet, consectetur
+              adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse sed magna eget nibh in
+              turpis. Consequat duis diam lacus arcu. Faucibus venenatis felis id augue sit cursus pellentesque enim
+              arcu. Elementum felis magna pretium in tincidunt. Suspendisse sed magna eget nibh in turpis. Consequat
+              duis diam lacus arcu.
+            </p>
+          </div>
+        </div>
+      </div>
+      
+     
+      </div>
+      
+    </div>
     <!-- FOOTER  -->
 
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
